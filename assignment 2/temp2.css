@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+   
+    width: 100%;
+    height: 520px;
+}
+h2{
+    position: relative;
+    font-size: 50px;
+    /* top: -1px; */
+    bottom: 340px;
+    text-align: center;
+    color: aliceblue;
+}
+p{
+    position: relative;
+    bottom: 337px;
+    color: aliceblue;
+    text-align: center;
+}
+.search{
+    width: 480px;
+    height: 30px;
+    background-color: whitesmoke;
+    position: relative;
+    top: -297px;
+    left: 535px;
+   
+}
+#l1{
+    position: relative;
+    top: 4px;
+    left: 2px;
+    opacity: 0.4;
+}
+.logo1{
+    height: 30px;
+    width: 24px;
+    background-color: rgba(1,179,254,255);
+    position: relative;
+    display: inline-block;
+    bottom: 327px;
+    left: 511px;
+}
+
+.logo2{
+    height: 30px;
+    width: 24px;
+    background-color: rgba(1,179,254,255);
+    position: relative;
+    display: inline-block;
+    bottom: 327px;
+    left: 987px;
+}
+#insidelogo1{
+    position: relative;
+    left: 5px;
+    /* border-top: double; */
+    top: 7px;
+    color: cornsilk;
+    
+}
+#insidelogo2{
+    position: relative;
+    left: 5px;
+    /* border-top: double; */
+    top: 7px;
+    color: cornsilk;
+    
+}
+.div1 {
+   
+    width: 200px;
+    height: 250px;
+    position: relative;
+    bottom: 214px;
+    left: 425px;
+    
+    background-color: #09b0fe;
+}
+
+#h1{
+    display: inline;
+    color: cornsilk;
+    position: absolute;
+    top: 30px;
+    left: 29px;
+}
+#dlogo{
+    height: 80px;
+    width: 60px;
+    position: absolute;
+    left: 22px;
+    top: 100px;
+    color: #c9fdff;
+
+}
+#pdiv1{
+    text-align: center;
+    color: cornsilk;
+    position: absolute;
+    
+    display: inline;
+    left: 20px;
+    display: inline;
+    top: 182px;
+    font-size: 8px;
+    right: 20px;
+
+}
+
+
+.div2 {
+    
+    width: 200px;
+    height: 250px;
+    position: relative;
+    bottom: 463px;
+    left: 655px;
+    
+    background-color: #ffffff;
+}
+
+#h2{
+    display: inline;
+    color: rgba(0, 212, 250, 0.87);
+    position: absolute;
+    top: 30px;
+    left: 29px;
+}
+#dlogo2{
+    height: 80px;
+    width: 60px;
+    position: absolute;
+    left: 22px;
+    top: 100px;
+    color: #3da1bc;
+
+}
+#pdiv2{
+    text-align: center;
+    color: rgba(0, 255, 255, 0.726);
+    position: absolute;
+    
+    display: inline;
+    left: 20px;
+    display: inline;
+    top: 182px;
+    font-size: 8px;
+    right: 20px;
+
+}
+
+
+.div3 {
+    width: 200px;
+    height: 250px;
+    position: relative;
+   
+    bottom: 714px;
+    /* display: inline-block; */
+    left: 885px;
+    background-color: #ebeef0f8;
+}
+
+#h3{
+    display: inline;
+    color: rgb(16, 98, 206);
+    position: absolute;
+    top: 30px;
+    left: 29px;
+}
+#dlogo3{
+    height: 80px;
+    width: 60px;
+    position: absolute;
+    left: 22px;
+    top: 100px;
+    color: #31579e;
+
+}
+#pdiv3{
+    text-align: center;
+    color: cornsilk;
+    position: absolute;
+    
+    display: inline;
+    left: 20px;
+    display: inline;
+    top: 182px;
+    font-size: 8px;
+    right: 20px;
+    color: rgb(20, 46, 192);
+
+}
